@@ -1,2 +1,4 @@
 C:\Users\bulabula\Desktop\learngitC:\Users\bulabula\Desktop\learngitC:\Users\bulabula\Desktop\learngit
 C:\Users\bulabula\Desktop\learngit
+Git is a distributed version control system.
+Git is free software.
